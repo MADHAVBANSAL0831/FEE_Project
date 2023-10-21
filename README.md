@@ -36,9 +36,9 @@ This web application is designed to help you manage your tasks effectively. It's
 # Getting Started
 - Clone the repository: git clone https://github.com/MADHAVBANSAL0831/FEE_Project
 
-Navigate to the project directory: cd Task-Manager-main
+- Navigate to the project directory: cd Task-Manager-main
 
-Open Home.html in your web browser to access the app.
+- Open Home.html in your web browser to access the app.
 
 # Usage
 1. Add Task:
