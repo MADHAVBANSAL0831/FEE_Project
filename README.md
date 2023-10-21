@@ -2,63 +2,75 @@
 
 Task Manager App 
 
-This web application is designed to help you manage your tasks effectively. It's built using HTML, CSS, JavaScript, Bootstrap, and Particle.js. The app provides CRUD (Create, Read, Update, Delete) functionality for tasks, allowing you to add, edit, change status, and delete tasks. Additionally, the app supports search, filter, and sort operations within the task table.
+![Home](https://github.com/MADHAVBANSAL0831/FEE_Project/assets/96764288/849ce10c-5f33-4c51-af3b-6702db843287)
 
-Features
-Create Task: Add new tasks with a title, description, and due date.
 
-Edit Task: Modify existing tasks to update their title, description, or due date.
 
-Change Task Status: Mark tasks as complete or pending to keep track of their progress.
+This web application is designed to help you manage your tasks effectively. It's built using HTML, CSS, JavaScript, Bootstrap, and Particle.js. The app provides CRUD (Create, Read, Update, Delete) functionality for tasks, allowing you to add, edit, change status, and delete tasks. Additionally, the app supports filter operations within the task table.
 
-Delete Task: Remove tasks that are no longer needed.
+# Features
 
-Search: Quickly find tasks by searching for keywords.
+* Create Task: Add new tasks with a title, description, and due date.
 
-Filter: Filter tasks based on their status (complete/pending) or other attributes.
+* Edit Task: Modify existing tasks to update their title, description, or due date.
 
-Sort: Sort tasks by due date, status, or any other relevant criteria.
+* Change Task Status: Mark tasks as complete or pending to keep track of their progress.
 
-Technologies Used
-HTML: Markup language used for structuring the web app's content.
+* Delete Task: Remove tasks that are no longer needed.
 
-CSS: Stylesheets to enhance the app's visual appearance and layout.
+* Search: Quickly find tasks by searching for keywords.
 
-JavaScript: Programming language used to add interactivity and dynamic behavior.
+* Filter: Filter tasks based on their status (complete/pending) or other attributes.
 
-Bootstrap: CSS framework for responsive and mobile-first design.
+* Sort: Sort tasks by due date, status, or any other relevant criteria.
 
-Particle.js: Library for creating interactive and animated backgrounds.
+ # Technologies Used
+* HTML: Markup language used for structuring the web app's content.
 
-Getting Started
-Clone the repository: git clone https://github.com/harshraj29/Task-Manager
+* CSS: Stylesheets to enhance the app's visual appearance and layout.
 
-Navigate to the project directory: cd Task-Manager
+* JavaScript: Programming language used to add interactivity and dynamic behavior.
 
-Open index.html in your web browser to access the app.
+* Bootstrap: CSS framework for responsive and mobile-first design.
 
-Usage
-Add Task:
+# Getting Started
+- Clone the repository: git clone https://github.com/MADHAVBANSAL0831/FEE_Project
 
-Click the "Add Task" button.
-Fill in the task details: title, description, and due date.
-Click "Save" to add the task.
-Edit Task:
+Navigate to the project directory: cd Task-Manager-main
 
-Click the Field in the task you want to modify.
-Update the task details.
-Change Task Status:
+Open Home.html in your web browser to access the app.
 
-Click the "Complete" button next to a task to toggle its status.
-Delete Task:
+# Usage
+1. Add Task:
 
-Click the "Delete" button next to a task to remove it from the list.
-Search, Filter, and Sort:
+  * Click the "Add Task" button.
+  * Fill in the task details: title, description, and due date.
+  * Click "Save" to add the task.
 
-Use the search bar to find tasks by keywords.
-Use the filter options to show only complete, pending, or all tasks.
-Click on the column headers in the task table to sort tasks based on that column.
-Screenshots
- Screenshot: Task List
+2. Edit Task:
 
- Screenshot: Add Task
+  * Click the Field in the task you want to modify.
+  * Update the task details.
+
+3. Change Task Status:
+
+  * Click the "Complete" button next to a task to toggle its status.
+
+  
+4. Delete Task:
+
+  * Click the "Delete" button next to a task to remove it from the list.
+
+5. Filter:
+
+  * Use the filter options to show only complete, pending, or all tasks.
+
+
+# Screenshots
+
+![Tasks](https://github.com/MADHAVBANSAL0831/FEE_Project/assets/96764288/d6c9c2e5-4c63-4eae-b4a6-9dd869b72e8e)
+
+
+![view](https://github.com/MADHAVBANSAL0831/FEE_Project/assets/96764288/8d514274-3590-4fce-9821-cc76c43081b3)
+
+
